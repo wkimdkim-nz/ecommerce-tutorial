@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vy52VqNp638=",
+  "success": true,
+  "projectFilePath": "/Users/derekkim/Derek/project/ecommerce-tutorial/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/derekkim/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/Users/derekkim/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
